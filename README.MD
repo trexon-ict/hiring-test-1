@@ -7,17 +7,17 @@ Il programma può essere scritto in uno dei seguenti linguaggi di programmazione
 
 Il primo csv, [a.csv](https://github.com/trexon-ict/hiring-test-1/blob/master/resources/a.csv), è formato dalle seguenti colonne:
 ```csv
-CKY_ART;DESCR;CATEGORIA;COSTO\n
+CKY_ART;DESCR;CATEGORIA;COSTO\r\n
 ```
 
 Il secondo csv, [b.csv](https://link), invece:
 ```csv
-CKY_ART;EAN13;MARCA\n
+CKY_ART;EAN13;MARCA\r\n
 ```
 
 Generare un'unico csv, con il nome file *out.csv*, che sia la somma di tutte le colonne dei due csv di base più una nuova colonna, `PREZZO`, che deve contenere il contenuto della colonna `COSTO` + un ricarico del 5%:
 ```csv
-CKY_ART;DESCR;CATEGORIA;COSTO;PREZZO;EAN13;MARCA\n
+CKY_ART;DESCR;CATEGORIA;COSTO;PREZZO;EAN13;MARCA\r\n
 ```
 Il formato dei csv [a.csv](https://github.com/trexon-ict/hiring-test-1/blob/master/resources/a.csv) e [b.csv](https://github.com/trexon-ict/hiring-test-1/blob/master/resources/b.csv) è:
 - separatore di colonna: `;`
