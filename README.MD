@@ -32,3 +32,5 @@ Svolgimento
 L'associazione dei campi del primo csv, [a.csv](https://github.com/trexon-ict/hiring-test-1/blob/master/resources/a.csv), a quelli del secondo, [b.csv](https://github.com/trexon-ict/hiring-test-1/blob/master/resources/b.csv), avviene confrontanto la colonna `CKY_ART`. Fare attenzione che nel csv [b.csv](https://github.com/trexon-ict/hiring-test-1/blob/master/resources/b.csv) potrebbe non esserci la riga relativa al csv [a.csv](https://github.com/trexon-ict/hiring-test-1/blob/master/resources/a.csv), ovvero, i campi `EAN13` e `MARCA` non esistono per tutti gli articoli; in questo caso i campi `EAN13` e `MARCA` del csv finale, *out.csv*, vanno lascati vuoti.
 
 Fornire il codice sorgente e le istruzioni per poterlo eseguire per poi confrontare il risultato di output *out.csv*, salvandolo nella cartella radice del sorgente stesso.
+
+Il tempo di consegna del test, come anche la documentazione nel sorgente e la spiegazione dello svolgimento, costituiscono punti a favore per la valutazione finale.
