@@ -23,6 +23,7 @@ Il formato dei csv [a.csv](https://github.com/trexon-ict/hiring-test-1/blob/mast
 - separatore di colonna: `;`
 - separatore di campo: *nessuno*
 - carattere di escape: `\\`
+- separatore di riga: `\r\n`(CarrierReturn+LineFeed)
 
 lo stesso formato va bene anche per il file di output *out.csv*.
 
