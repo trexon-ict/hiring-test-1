@@ -34,3 +34,5 @@ L'associazione dei campi del primo csv, [a.csv](https://github.com/trexon-ict/hi
 Fornire il codice sorgente e le istruzioni per poterlo eseguire per poi confrontare il risultato di output *out.csv*, salvandolo nella cartella radice del sorgente stesso.
 
 Il tempo di consegna del test, come anche la documentazione nel sorgente e la spiegazione dello svolgimento, costituiscono punti a favore per la valutazione finale.
+
+La consegna è preferibile sia fatta stesso tramite un repository personale su github.com, in modo da poter già iniziare ad imparare ed usare git.
